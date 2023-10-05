@@ -9,6 +9,6 @@ First use: visit [the documentation on how to set up everything](https://fablabb
 git clone git@github.com:fablabbcn/mdef-template.git
 ```
 
-You can visit the template demo here: https://fablabbcn.github.io/mdef-template/
+Visit the website: https://chylkemamdef.github.io/MDEFPortfolio/
 
 I added this!!!!!!!!!!! Again
