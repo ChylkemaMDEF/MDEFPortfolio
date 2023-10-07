@@ -47,8 +47,8 @@ theme:
     accent: #FA969D
   font:
     # See available fonts at https://fonts.google.com/
-    text: Archivo
-    code: 'Archivo Black', Regular 400
+    text: Be Vietnam
+    code: Cutive Mono
 
   icon:
     logo: material/memory
