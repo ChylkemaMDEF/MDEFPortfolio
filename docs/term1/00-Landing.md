@@ -14,13 +14,13 @@ The first day was not very special in information received about the masters but
 <table>
   <tr>
     <td> 
-        <img src="C:\Users\carlo\Desktop\MDEF\Website\MDEFPortfolio\docs\images\Landing\LD1.jpg"  alt="1" width = 360px height = 640px >
+        <img src="..\images\Landing\LD1.jpg"  alt="1" width = 360px height = 640px >
     </td>
     <td>
-        <img src="C:\Users\carlo\Desktop\MDEF\Website\MDEFPortfolio\docs\images\Landing\LD1-2.jpg" alt="2" width = 360px height = 640px>
+        <img src="..\images\Landing\LD1-2.jpg" alt="2" width = 360px height = 640px>
     </td>
     <td>
-    <img src="C:\Users\carlo\Desktop\MDEF\Website\MDEFPortfolio\docs\images\Landing\LD1-3.jpg" alt="3" width = 360px height = 640px>
+    <img src="..\LD1-3.jpg" alt="3" width = 360px height = 640px>
     </td>
   </tr>
 </table>
