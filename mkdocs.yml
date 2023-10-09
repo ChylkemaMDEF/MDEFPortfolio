@@ -17,8 +17,8 @@ nav:
       - Term 1:
           - Landing: term1/00-Landing.md
           - Design studio: term1/01-Designstudio.md
-            - My RtD toolkit: term1/MyRtDToolkit.md
-            - Roles of Prototyping: term1/RolesofPrototyping.md
+          - My RtD toolkit: term1/MyRtDToolkit.md
+          - Roles of Prototyping: term1/RolesofPrototyping.md
           - AoWS: term1/02-Atlas of Weak Signals.md
 
       - Term 2:
