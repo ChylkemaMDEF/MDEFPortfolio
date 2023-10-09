@@ -15,7 +15,7 @@ nav:
       - Initial ideas: project/project.md
   - Courses:
       - Term 1:
-          - Landing: term1/01-Landing.md
+          - Landing: term1/00-Landing.md
           - AoWS: term1/02-Atlas of Weak Signals.md
 
       - Term 2:
@@ -47,7 +47,7 @@ theme:
     accent: #FA969D
   font:
     # See available fonts at https://fonts.google.com/
-    text: Be Vietnam
+    text: Archivo
     code: Cutive Mono
 
   icon:
