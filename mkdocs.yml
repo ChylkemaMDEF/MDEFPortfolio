@@ -9,6 +9,9 @@ repo_url: 'https://github.com/ChylkemaMDEF/MDEFPortfolio'
 
 
 nav:
+    position: fixed; 
+    top: 0;
+    width: 100%; 
   - Home: index.md
   - About: about/me.md
   - Master project:
