@@ -14,13 +14,13 @@ The first day was not very special in information received about the masters but
 <table>
   <tr>
     <td> 
-        <img src="..\images\Landing\LD1.jpg"  alt="1" width = 360px height = 640px >
+        <img src="..\Landing\LD1.jpg"  alt="1" width = 360px height = 640px >
     </td>
     <td>
-        <img src="..\images\Landing\LD1-2.jpg" alt="2" width = 360px height = 640px>
+        <img src="..\Landing\LD1-2.jpg" alt="2" width = 360px height = 640px>
     </td>
     <td>
-    <img src="..\LD1-3.jpg" alt="3" width = 360px height = 640px>
+    <img src="..images\LD1-3.jpg" alt="3" width = 360px height = 640px>
     </td>
   </tr>
 </table>
@@ -36,13 +36,13 @@ Not only is the campus an interesting experimental area but the whole Poblenou n
 <table>
   <tr>
     <td> 
-        <img src="C:\Users\carlo\Desktop\MDEF\Website\Images\Landing\LD1.jpg"  alt="1" width = 360px height = 640px >
+        <img src=..\Landing\LD3.jpg"  alt="1" width = 360px height = 640px >
     </td>
     <td>
-        <img src="C:\Users\carlo\Desktop\MDEF\Website\Images\Landing\LD1-2.jpg" alt="2" width = 360px height = 640px>
+        <img src="..\Landing\LD3-2.jpg" alt="2" width = 360px height = 640px>
     </td>
     <td>
-    <img src="C:\Users\carlo\Desktop\MDEF\Website\Images\Landing\LD1-3.jpg" alt="3" width = 360px height = 640px>
+    <img src="..\Landing\LD3-3.jpg" alt="3" width = 360px height = 640px>
     </td>
   </tr>
 </table>
