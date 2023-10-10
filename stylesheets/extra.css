@@ -5,6 +5,8 @@
     --md-footer-bg-color--dark: #4B4237; 
     --md-footer-fg-color--lighter:  rgb(84, 84, 84);
     --md-footer-fg-color--light: = rgb(84, 84, 84); 
+    --md-header-bg-color:  #4B4237; 
+    --md-header-fg-color:  #4B4237; 
     --mdc-typography-headline6-font-family: 'Archivo', Medium 500;
     --mdc-typography-font-family: 'Archivo', ExtraLight 200;
     --md-typeset-a-color: #FA969D; 
