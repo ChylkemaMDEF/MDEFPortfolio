@@ -42,7 +42,7 @@ Not only is the campus an interesting experimental area but the whole Poblenou n
         <![](..\Landing\LD3-2.jpg)>
     </td>
     <td>
-    <<![](..\Landing\LD3-3.jpg)>
+        <![](..\Landing\LD3-3.jpg)>
     </td>
   </tr>
 </table>
