@@ -36,13 +36,13 @@ Not only is the campus an interesting experimental area but the whole Poblenou n
 <table>
   <tr>
     <td> 
-        <![](..\Landing\LD3.jpg)>
+        ![](..\Landing\LD3.jpg)
     </td>
     <td>
-        <![](..\Landing\LD3-2.jpg)>
+        ![](..\Landing\LD3-2.jpg)
     </td>
     <td>
-        <![](..\Landing\LD3-3.jpg)>
+        ![](..\Landing\LD3-3.jpg)
     </td>
   </tr>
 </table>
