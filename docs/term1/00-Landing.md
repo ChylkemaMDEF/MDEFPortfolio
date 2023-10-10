@@ -36,13 +36,13 @@ Not only is the campus an interesting experimental area but the whole Poblenou n
 <table>
   <tr>
     <td> 
-        ![](..\Landing\LD3.jpg)
+        <img src=..\Landing\LD3.jpg"  alt="1" width = 360px height = 640px >
     </td>
     <td>
-        ![](..\Landing\LD3-2.jpg)
+        <img src="..\Landing\LD3-2.jpg" alt="2" width = 360px height = 640px>
     </td>
     <td>
-        ![](..\Landing\LD3-3.jpg)
+    <img src="..\Landing\LD3-3.jpg" alt="3" width = 360px height = 640px>
     </td>
   </tr>
 </table>
